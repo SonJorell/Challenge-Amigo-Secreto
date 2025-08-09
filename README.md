@@ -6,6 +6,8 @@ Este proyecto es una aplicación web llamada **Amigo Secreto** que permite a los
 
 Los usuarios pueden agregar nombres a una lista visible y, al finalizar, presionar un botón para sortear un nombre al azar, que se mostrará en pantalla y se eliminará de la lista para evitar repeticiones.
 
+## Link
+https://challenge-amigo-secreto-hgciuy69r-sonjorells-projects.vercel.app
 ---
 
 ## ✨ Funcionalidades principales
